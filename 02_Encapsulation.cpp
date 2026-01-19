@@ -2,18 +2,6 @@
 #include<vector>
 #include<string>
 using namespace std;
-// Encapsulation
-// class sportscar{
-// public:
-    
-//     virtual void startengine() = 0;
-//     virtual void shiftgear(int gear) = 0;
-//     virtual void accelerate() = 0;
-//     virtual void brake() = 0;
-//     virtual void stopengine() = 0;
-//     virtual ~sportscar() {}
-
-// };
 
 // Encapsulation
 class sportscar{
